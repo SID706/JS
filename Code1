@@ -1,6 +1,4 @@
-
 let nftCollection = [];
-
 function mintNFT(name, eyeColor, shirtType, bling) {
     let nft = {
         name: name,
